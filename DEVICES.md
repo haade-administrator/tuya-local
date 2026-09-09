@@ -13,7 +13,7 @@
 - Betterlife BT1500 IR heater
 - Blumfeldt/Klarstein Cosmic Beam Smart 24 infrared radiant heater
 - Brandon Basics towel warmer
-- Breville AirRounder Plus Connect purifier heater
+- Breville AirRounder Plus Connect and AllRounder purifier heaters
 - Bonaire HPC5200020 electric heater
 - BVF CP1 heater
 - Caldo Up T fan heater
@@ -148,6 +148,7 @@
 - Igenix IG9901WIFI portable air conditioner
 - Inventor Comfort and Leon air conditioners
 - Kaisai Pro Heat+ air conditioner
+- Kältebringer KBO series air conditioner
 - Kibernetik 12K portable split air conditioner
 - Klarstein Iceblock Ecosmart, MetroBreeze New York, Pure Blizzard air conditioners
 - Kogan portable air conditioners (Y09, Y12, Y16, Vostok)
@@ -195,6 +196,7 @@
 - Evotherm ETI series heat pump
 - Fairland IPHCR15, RMIC06, X20 pool heat pumps (also Pool Systems and other brands)
 - Garden PAC pool heat pump (also works with Summerwave Si Series)
+- Giatsu GIA-BP07MDA pool heat pump
 - Henden Essential pool heat pump
 - Komeco QC60 pool heat pump
 - Madimack Eco, Elite V2,V3,V4 and other model pool heat pumps
@@ -208,6 +210,7 @@
 - Sibrape CBC-Pool BP heat pump
 - Steinbach Solid 4.3 and Silent Mini pool heat pumps
 - Swim & Fun InverBoost pool heat pump
+- Trevi InnovAqua variable speed pool heat pump
 - Turbro 75000 btu pool heat pump
 - Varminpool pool heatpump
 - Varpoolfaye 5kW pool heat pump
@@ -285,6 +288,7 @@
 - Beok TR9B _(rebadged as Vancoo and perhaps others)_, TR9B-AC2 thermostats
 - BHT-002-GALW and GABW thermostats _(rebadged as many different brands)_
 - Brade MC6 thermostat _(rebadged as many different brands)_
+- Coleman-Mach RVP 9240-391 thermostat
 - Computherm Q20 thermostat
 - Dr Heater DR-008 electric radiant floor thermostat
 - Drexma WiStat ET7AW thermostat
@@ -360,6 +364,7 @@
 - Amico 52" ceiling fan with light
 - Anderic UC7235T4 ceiling fan receiver
 - Anko HEGSM40 fan
+- Anwo Brezza ceiling fan
 - Arida Venti 160 small through-wall heat-recovery ventilation fan
 - Arlec ceiling fan and light remote control kit (CFR225HA also works for Sulion Cadillac)
 - Arlec Grid Connect smart ceiling fan (with and without light)
@@ -374,7 +379,7 @@
 - Blitzwill ceiling fan with light
 - Brandson A307362x3 tower fan
 - Breville AirDynamic 3D pedestal fan
-- Brilliant Ceiling fan with light, and remote controller
+- Brilliant 3 and 5 speed Ceiling fans with light, and fan remote controller
 - Calibo Cloudfan DC ceiling fan with light
 - Carro ceiling fan with cool and warm white lights
 - Carro PN-04F02D fan with dimmable light
@@ -413,6 +418,7 @@
 - Hoenofly Smart Amari ceiling fan with light
 - Hoenofly Smart Wood low profile ceiling fan with lights
 - Holmes SmartConnect Digital Tower Fan (36 and 40 inch variants)
+- Holtop CFA-500t Energy Recovery Ventilation system
 - Hombli 6-speed ceiling fan with RGBCW light
 - HomCom 6-speed tower fan
 - Homebase 12" oscillating fan
@@ -508,7 +514,7 @@
 - essentials portable air purifier
 - Himox H05 and H06 air purifiers
 - Homemedics C500 air purifier
-- Honeywell Air Touch P2 Air Purifier
+- Honeywell Air Touch P2 and H-Speed Pro air purifiers
 - Hosome air purifier
 - iHunt 400m³/h and 50m³/h air purifiers
 - Jafanda JF260S and JF500 air purifiers
@@ -545,6 +551,7 @@
 - Argo Dry Pury Evo WF dehumidifier
 - Arida S7L-2 dehumidifier
 - Belair Baltic Irradio 20L dehumidifier
+- Breville BAD358 All Climate 2-in-1 dehumidifier
 - Cecotec BigDry 4000 dehumidifier
 - Clean Air Optima CA-702 and CA-707 dehumidifiers
 - Cleverio AD100 dehumidifier
@@ -562,12 +569,13 @@
 - Goldair GPDH340, GPDH420 dehumidifiers
 - Gologi GO021 dehumidifier
 - Greenmigo Alpha Q25 dehumidifier
-- Hiniso dehumidifier
+- Hiniso RM10S and other dehumidifiers
 - Honeywell TP(30/50/70) dehumidifiers
 - HTW HTWD020A4 dehumidifier
 - Hyundai Sahara dehumidifier
 - Inkbird IHC-200 humidity controller
 - Inventor Atmosphere XL, Eva Ion Pro, Rise Pro dehumidifiers
+- Ivation 50PT dehumidifier
 - JJPro JPD01, JPD02 dehumidifers
 - Juro-Pro 2006 dehumidifier
 - Klarstein DryFy Pro Connect dehumidifier
@@ -662,6 +670,7 @@
 - Cecofry 5500 Connected air fryer
 - Etna VW644MC dishwasher, AB791 range hood
 - Fiesta DK-1G smart kettle
+- FRE1L4 water chiller
 - Goldair GGK1000 smart kettle
 - Götze and Jensen KT975K smart kettle
 - Hauslane IN-R110 range hood
@@ -698,7 +707,7 @@
 - Aulifants SMES200 energy monitoring breaker switch
 - Avidsen Soria Karst-400 and MI-400 solar inverters
 - CBI Astute smart controller breaker switch
-- CNC YCB9ZF-100W 1P circuit breaker
+- CNC YCB9ZF-100W and YCB9NZF-40AP 1P circuit breakers
 - Compteur digital electric (single phase)
 - CT-1203 dual clamp meter
 - Dcenta dual clamp meter
@@ -723,7 +732,7 @@
 - PC311-TY 2 phase power clamp meter
 - PC321-TY 3 phase power clamp meter
 - PC473 3-phase energy monitor
-- PJ-1103, PJ-1103A power clamp meters
+- PJ-1103, PJ-1103A, PJ-1103C, PJ-2101A power clamp meters
 - PowBay JGQW01-63 energy monitoring circuit breaker
 - PZIOT E01 energy meter
 - SG600MD solar inverter (also SG700MD, other SGxx0MD and SGxx0W models) sold under various brands
@@ -809,6 +818,7 @@ the best option.
 - Arlec PB88UHA 4 way powerstrip with child lock
 - Aubess 1-gang switch with energy monitoring
 - Aubess 2 and 3-gang switches
+- Avatto WSM16-DC-1 dry contact smart switch
 - Aziot 4, 7 and 8 gang multi-switches
 - Bauhn APSW-0624 5 way powerstrip (with unswitched USB)
 - BBCoin AC5299 PCIe computer switch
@@ -975,10 +985,8 @@ of device.
 - Loycco Smart Nursery light
 - Loginovo TV sync backlight
 - LSC Smart Connect CCT + RGB ceiling light
-- LSC Smart Connect CCT + RGB led strip
+- LSC Smart Connect CCT+RGB, RGB/IC+CCT/IC, Neon, Party led strips
 - LSC Smart Connect garden spotlights
-- LSC Smart Connect Neon LED strip
-- LSC Smart Connect Party string lights
 - LSC smart connect RGB CCT lightbulb (similar to older generic bulbs, so may work for others)
 - Lumary D1 6 inch retrofit downlight (independent RGB ring and CCT centre)
 - Lytmi Fantasy/Neo 3 HDMI sync backlight
@@ -1000,6 +1008,7 @@ of device.
 - Outon Smart Lamp
 - Peteme recessed lighting
 - Pinar SmartLux door lights
+- Pixbee Illumi ambient light
 - PowerAsia RGB 6-inch recessed lighting
 - RGB48 RGBIC string light
 - Richelieu tunable white LED puck light (166142030)
@@ -1033,12 +1042,13 @@ of device.
 - Avatto curtain and light switch
 - Avatto curtain switch
 - Avatto roller blind controller
+- Belko ProLift 1200N garage door opener
 - Benexmart blind motor
 - BobYun Tech gatePro gate opener
 - CCB-11 blind controller
 - CC curtain controller 1
 - CST WB V1 cover switch with backlight
-- Curry Smarter 6-Gen roller shutter switch
+- Curry Smarter 6-Gen and W7Pro roller shutter switches
 - Dongguan garage door
 - Dongguan LY1678-2 curtain robot
 - Dooya curtain motor
@@ -1098,6 +1108,7 @@ of device.
 - Lenovo E1 vacuum cleaner
 - Liectroux G7. XR500 vacuum cleaners
 - Lubluelu A901, SL60D vacuum cleaners
+- Madimack GT Freedom i80 pool cleaner
 - MAMNV BR151 vacuum cleaner with mop
 - Medion S10 SW, S20 SW, X10 SW vacuum cleaners
 - Mellerware City Move vacuum cleaner
@@ -1239,7 +1250,7 @@ port and password.
 - HoneyGuardian S56 pet feeder
 - iLonda L88 fish feeder
 - Imipaw DUW21 WBR3D cat feeder
-- iPettie W5 pet feeder
+- iPettie W5 and FW54 pet feeders
 - Kalado KPF01 pet feeder
 - Kanchou pet fountain
 - Leo's Loo Too pet toilet
@@ -1279,6 +1290,7 @@ port and password.
 - Sobralik pet fountain
 - TA-FD-BL6 camera pet feeder
 - Tesla Smart fish and pet feeders
+- Tesla Smart pet sofa
 - Ti Pro25 cat litter box
 - Tonepie T1PRO cat litter box
 - Tonepie T1 Pro MAX cat litter box
@@ -1369,9 +1381,10 @@ port and password.
 - Haoliyuen EWC02 air quality monitor
 - Haozee explosive gas leak and carbon monoxide alarm
 - Haozee PS10 mmWave presence sensing light switch
+- Holman Helios weather station
 - Houschen anti-fog bathroom mirror with lights
 - HRT AS90 temperature and humidity alarm
-- Holman Helios weather station
+- HX-002-Z human presence sensor
 - iHseno ZTU human presence sensor
 - idoo Smart Bloom 8 hydroponic system
 - Immax Neo Lite 7-in-1 weather station
@@ -1410,7 +1423,7 @@ port and password.
 - PV28-AW 3-in-1 CO2 monitor
 - PV28-CW 8 in 1 air quality monitor
 - QTFV3-3 air quality monitor
-- Raddy PT-5 pool thermometer
+- Raddy PT-3 and PT-5 pool thermometers
 - RainPoint TTV103FRF water timer
 - RQ400A gas alarm
 - RSE TY-WFH v3.01 gate controller
